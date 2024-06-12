@@ -3,7 +3,10 @@
 """
 Created on Wed Jun 12 15:57:13 2024
 
-@author: dquinn
+#Cafe simulation that allows user to select items to purchase, and produces a receipt of chosen items. 
+#
+
+#@author: dquinn (dquinn06@mail.pima.edu)
 """
 
 
