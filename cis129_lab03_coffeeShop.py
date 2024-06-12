@@ -28,7 +28,7 @@ coffee = input("How many coffees would you like? ")
 
 coffee = int(coffee)    #user inputs # of coffees wanted
 
-tea = input("How many teas would you like?")
+tea = input("How many teas would you like? ")
 
 tea = int(tea) #user inputs # of teas wanted
 
